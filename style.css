@@ -1,0 +1,90 @@
+.netflix{
+    width: 350px;
+    height: 500px;
+    border: 2px solid black;
+    margin:auto;
+    margin-top: 50px;
+    font-family:  Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding: 50px;
+    background:rgba(0,0,0,0.9);
+    color: white;
+}
+.i{
+    margin-top: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    background-color: black;
+    font: white;
+}
+.ib{
+    background: rgb(255, 29, 29,0.9);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 307px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+}
+.is{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 307px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    background: rgba(134, 132, 132,0.7);
+   
+}
+label{
+    color: grey;
+}
+input{
+    border-radius: 7px;
+    border: 1px solid grey;
+    color: white;
+    
+}
+.name{
+    margin-top: 5px;
+    margin-left: 140px;
+}
+.name1{
+    margin-top: 5px;
+    margin-left: 100px
+}
+.l1{
+    color: white;
+}
+.l1:hover{
+    text-decoration: underline;
+}
+body{
+    background-image: url("./netflix.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 50px;
+    width: 150px;
+}
+.name1:hover{
+    text-decoration: underline;
+}
+.is:hover{
+
+background: rgb(134, 132, 132);
+
+}
+.ib:hover{
+    background: rgb(255, 29, 29,0.7);
+}
+.learn{
+    color: blue;
+}
+.learn:hover{
+    text-decoration: underline;
+}
